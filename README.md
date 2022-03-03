@@ -10,5 +10,5 @@ Is it worth it to risk and take the next level? (If we answer wrong on the next,
 #
 ![2](https://user-images.githubusercontent.com/39953455/156616938-a31a833d-48a6-4d8f-9549-ee17da0b09c7.png)
 #
-Pseudo-code of value iteration
+# Pseudo-code of value iteration
 ![3](https://user-images.githubusercontent.com/39953455/156616952-4f3abc58-6345-47d8-b399-9123a13a4f73.png)
